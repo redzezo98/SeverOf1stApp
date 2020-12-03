@@ -5,6 +5,9 @@ from __future__ import print_function
 import tensorflow as tf
 from imutils.video import VideoStream
 
+from flask import Flask
+from flask_restful import Api, Resource
+
 
 import argparse
 import facenet
@@ -19,6 +22,14 @@ import cv2
 import collections
 from sklearn.svm import SVC
 
+list = []
+def test(list,bestname):
+    for i in list:
+        if bestname == i:
+            return False
+    return True
+
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -30,9 +41,9 @@ def main():
     FACTOR = 0.709
     IMAGE_SIZE = 182
     INPUT_IMAGE_SIZE = 160
-    CLASSIFIER_PATH = 'Models/facemodel.pkl'
+    CLASSIFIER_PATH = '../../Models/facemodel.pkl'
     VIDEO_PATH = args.path
-    FACENET_MODEL_PATH = 'Models/20180402-114759.pb'
+    FACENET_MODEL_PATH = '../../Models/20180402-114759.pb'
 
     # Load The Custom Classifier
     with open(CLASSIFIER_PATH, 'rb') as file:
@@ -100,8 +111,25 @@ def main():
                                 best_class_probabilities = predictions[
                                     np.arange(len(best_class_indices)), best_class_indices]
                                 best_name = class_names[best_class_indices[0]]
-                                print("Name: {}, Probability: {}".format(best_name, best_class_probabilities))
 
+                                if test(list,best_name):
+                                    list.append(best_name)
+                                    number = len(list)
+                                    print(number)
+                                    app = Flask(__name__)
+                                    api = Api(app)
+                                    class Test(Resource):
+                                        def get(self):
+                                            return {"name": list[0]}
+                                    api.add_resource(Test, "/test2")
+
+                                    if __name__ == "__main__":
+                                        app.run()
+
+                                    print(list[0])
+                                    print('done')
+
+                                print(list)
 
 
                                 if best_class_probabilities > 0.8:
@@ -118,6 +146,9 @@ def main():
                                     person_detected[best_name] += 1
                                 else:
                                     name = "Unknown"
+
+
+
 
                 except:
                     pass

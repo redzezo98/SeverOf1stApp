@@ -1,0 +1,86 @@
+Dataset/FaceData/processed\LeDucLoc\4_380_1605602074.9846673.png 57 20 135 106
+Dataset/FaceData/processed\LeDucLoc\27_366_1605602082.6503918.png 59 19 137 106
+Dataset/FaceData/processed\LeDucLoc\image-2d673b18-320b-46ab-82a6-cd23bcc17ecf.png
+Dataset/FaceData/processed\LeDucLoc\12_370_1605602077.6415617.png 57 20 136 106
+Dataset/FaceData/processed\LeDucLoc\14_360_1605602078.3147614.png 47 18 121 104
+Dataset/FaceData/processed\LeDucLoc\Loc6.png 37 172 231 396
+Dataset/FaceData/processed\LeDucLoc\30_396_1605602083.6258261.png 60 17 137 96
+Dataset/FaceData/processed\LeDucLoc\Loc7.png 114 119 406 469
+Dataset/FaceData/processed\LeDucLoc\Loc5.png 150 170 547 687
+Dataset/FaceData/processed\LeDucLoc\image-c968dffb-2c3f-4866-a797-ebbe21cd4b64.png
+Dataset/FaceData/processed\LeDucLoc\36_368_1605602085.641663.png 60 19 138 105
+Dataset/FaceData/processed\LeDucLoc\10_360_1605602076.9693801.png
+Dataset/FaceData/processed\LeDucLoc\Loc8.png 132 130 343 389
+Dataset/FaceData/processed\LeDucLoc\13_366_1605602077.9776635.png 57 21 134 106
+Dataset/FaceData/processed\LeDucLoc\24_345_1605602081.6430855.png 60 27 140 118
+Dataset/FaceData/processed\LeDucLoc\21_342_1605602080.633558.png
+Dataset/FaceData/processed\LeDucLoc\17_376_1605602079.3210685.png 58 22 132 103
+Dataset/FaceData/processed\LeDucLoc\image-9e962621-c139-44d6-b344-50963388eabd.png
+Dataset/FaceData/processed\LeDucLoc\5_356_1605602075.321769.png 57 18 137 106
+Dataset/FaceData/processed\LeDucLoc\33_455_1605602084.6335826.png
+Dataset/FaceData/processed\LeDucLoc\Loc3.png 211 116 421 377
+Dataset/FaceData/processed\LeDucLoc\15_373_1605602078.6488674.png 43 19 114 105
+Dataset/FaceData/processed\LeDucLoc\avt.png 33 34 155 182
+Dataset/FaceData/processed\LeDucLoc\29_356_1605602083.3225937.png 62 18 137 97
+Dataset/FaceData/processed\LeDucLoc\11_376_1605602077.3054626.png
+Dataset/FaceData/processed\LeDucLoc\26_368_1605602082.3132956.png
+Dataset/FaceData/processed\LeDucLoc\38_388_1605602086.3142126.png
+Dataset/FaceData/processed\LeDucLoc\9_356_1605602076.6332593.png 68 21 144 107
+Dataset/FaceData/processed\LeDucLoc\31_442_1605602083.9633994.png
+Dataset/FaceData/processed\LeDucLoc\8_358_1605602076.2971573.png 74 22 148 105
+Dataset/FaceData/processed\LeDucLoc\25_367_1605602081.977192.png
+Dataset/FaceData/processed\LeDucLoc\16_378_1605602078.9859645.png 46 20 118 102
+Dataset/FaceData/processed\LeDucLoc\7_345_1605602075.9620547.png 72 20 148 105
+Dataset/FaceData/processed\LeDucLoc\34_376_1605602084.9688134.png
+Dataset/FaceData/processed\LeDucLoc\Loc2.png 111 117 310 355
+Dataset/FaceData/processed\LeDucLoc\Loc1.png 246 182 488 479
+Dataset/FaceData/processed\LeDucLoc\Loc4.png 75 153 244 357
+Dataset/FaceData/processed\LeDucLoc\18_374_1605602079.6252573.png 57 20 135 105
+Dataset/FaceData/processed\LeDucLoc\32_448_1605602084.2972872.png 62 16 135 91
+Dataset/FaceData/processed\LeDucLoc\3_382_1605602074.6505623.png 57 20 135 107
+Dataset/FaceData/processed\LeDucLoc\Loc9.png 41 48 154 185
+Dataset/FaceData/processed\LeDucLoc\19_376_1605602079.961366.png 57 21 134 107
+Dataset/FaceData/processed\LeDucLoc\6_363_1605602075.6259615.png 64 20 142 107
+Dataset/FaceData/processed\LeDucLoc\28_361_1605602082.9864962.png 61 19 138 103
+Dataset/FaceData/processed\LeDucLoc\20_358_1605602080.2974575.png
+Dataset/FaceData/processed\HoangVanThu\VanThu_18.png 43 18 191 194
+Dataset/FaceData/processed\HoangVanThu\VanThu_7.png 35 69 237 326
+Dataset/FaceData/processed\HoangVanThu\33bc9e44c004315a681515.png 267 258 672 779
+Dataset/FaceData/processed\HoangVanThu\56810e5c501ca142f80d21.png 265 371 570 770
+Dataset/FaceData/processed\HoangVanThu\VanThu_19.png 51 84 182 239
+Dataset/FaceData/processed\HoangVanThu\cc8ccc9d91dd608339cc9.png 276 237 616 645
+Dataset/FaceData/processed\HoangVanThu\c70f941cc95c3802614d8.png 308 211 748 787
+Dataset/FaceData/processed\HoangVanThu\VanThu_12.png 109 52 331 333
+Dataset/FaceData/processed\HoangVanThu\ee78f4b2aaf25bac02e317.png 260 350 608 791
+Dataset/FaceData/processed\HoangVanThu\4eb234576a179b49c20612.png 370 536 658 917
+Dataset/FaceData/processed\HoangVanThu\f2bd437e1d3eec60b52f19.png 321 385 697 903
+Dataset/FaceData/processed\HoangVanThu\VanThu_3.png 44 33 133 142
+Dataset/FaceData/processed\HoangVanThu\VanThu_15.png 16 0 87 82
+Dataset/FaceData/processed\HoangVanThu\VanThu_2.png 0 18 84 119
+Dataset/FaceData/processed\HoangVanThu\VanThu_6.png 8 17 74 94
+Dataset/FaceData/processed\HoangVanThu\39bdbb48e50814564d1916.png 288 248 692 791
+Dataset/FaceData/processed\HoangVanThu\156d1b8345c3b49dedd210.png 288 236 638 691
+Dataset/FaceData/processed\HoangVanThu\VanThu_5.png 0 12 49 83
+Dataset/FaceData/processed\HoangVanThu\bc44cd8493c4629a3bd520.png 362 361 680 734
+Dataset/FaceData/processed\HoangVanThu\VanThu_20.png 36 39 113 127
+Dataset/FaceData/processed\HoangVanThu\396910954ed5bf8be6c414.png 238 377 627 861
+Dataset/FaceData/processed\HoangVanThu\VanThu_16.png 305 74 443 247
+Dataset/FaceData/processed\HoangVanThu\da91f58fa8cf599100de6.png 175 346 583 875
+Dataset/FaceData/processed\HoangVanThu\2be6eaddb79d46c31f8c2.png 216 244 614 793
+Dataset/FaceData/processed\HoangVanThu\51cba32cfd6c0c32557d11.png 439 484 722 850
+Dataset/FaceData/processed\HoangVanThu\1cb76b8e36cec7909edf3.png 145 256 575 800
+Dataset/FaceData/processed\HoangVanThu\e1a3ae95f3d5028b5bc44.png 265 252 657 791
+Dataset/FaceData/processed\HoangVanThu\VanThu_1.png 29 41 97 117
+Dataset/FaceData/processed\HoangVanThu\VanThu_10.png 43 25 119 112
+Dataset/FaceData/processed\HoangVanThu\7859e4bbbafb4ba512ea13.png 305 468 634 898
+Dataset/FaceData/processed\HoangVanThu\633d401e1d5eec00b54f1.png 216 280 595 790
+Dataset/FaceData/processed\HoangVanThu\VanThu_11.png 937 126 1421 765
+Dataset/FaceData/processed\HoangVanThu\VanThu_17.png 35 20 124 126
+Dataset/FaceData/processed\HoangVanThu\VanThu_9.png 45 55 118 136
+Dataset/FaceData/processed\HoangVanThu\VanThu_13.png 145 184 412 441
+Dataset/FaceData/processed\HoangVanThu\7fccfbcda68d57d30e9c5.png 89 291 497 780
+Dataset/FaceData/processed\HoangVanThu\7648608f3ecfcf9196de18.png 372 342 746 830
+Dataset/FaceData/processed\HoangVanThu\b52a17304a70bb2ee2617.png 131 183 597 775
+Dataset/FaceData/processed\HoangVanThu\VanThu_4.png 19 18 94 104
+Dataset/FaceData/processed\HoangVanThu\VanThu_8.png 35 45 211 268
+Dataset/FaceData/processed\HoangVanThu\VanThu_14.png 18 12 76 75

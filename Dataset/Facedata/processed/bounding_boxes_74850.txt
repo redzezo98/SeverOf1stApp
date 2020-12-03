@@ -1,0 +1,8 @@
+Dataset/FaceData/processed\LeDucLoc\1.png 41 0 148 115
+Dataset/FaceData/processed\LeDucLoc\2.png
+Dataset/FaceData/processed\LeDucLoc\2_343_1605498277.3281932.png 30 0 137 120
+Dataset/FaceData/processed\LeDucLoc\3.png 47 0 154 120
+Dataset/FaceData/processed\LeDucLoc\4.png
+Dataset/FaceData/processed\LeDucLoc\5.png 46 6 151 120
+Dataset/FaceData/processed\LeDucLoc\6.png 50 0 157 120
+Dataset/FaceData/processed\LeDucLoc\7.png 50 0 156 120
